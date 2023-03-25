@@ -1,0 +1,43 @@
+.navbar {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #222;
+
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.logoutBtn {
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  background-color: #e91e63;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.logoutBtn:hover {
+  background-color: #e9467c;
+}
+
+.logoutBtn:active {
+  background-color: #b92154;
+}
+
+.table-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.table tbody tr td,
+.table tbody tr th {
+  vertical-align: middle;
+}

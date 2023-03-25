@@ -1,0 +1,15 @@
+.loginPage {
+  width: 500px;
+  margin: auto;
+  padding: 20px 30px 50px;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+.pageCenter {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+}
+.alert {
+  margin-block: 1rem;
+}

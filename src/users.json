@@ -1,0 +1,284 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "+1-555-1234-567",
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "+1-555-5678-901",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "phone": "+1-555-2345-678",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sara Lee",
+      "email": "sara.lee@example.com",
+      "phone": "+1-555-6789-012",
+      "address": {
+        "street": "321 Maple St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94101",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "phone": "+1-555-3456-789",
+      "address": {
+        "street": "456 Pine St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lisa Jones",
+      "email": "lisa.jones@example.com",
+      "phone": "+1-555-9012-345",
+      "address": {
+        "street": "789 Cedar St",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02108",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Michael Chen",
+      "email": "michael.chen@example.com",
+      "phone": "+1-555-4567-890",
+      "address": {
+        "street": "123 Oak St",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77002",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "phone": "+1-555-8901-234",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33101",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kevin Wilson",
+      "email": "kevin.wilson@example.com",
+      "phone": "+1-555-5678-901",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30303",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Brown",
+      "email": "olivia.brown@example.com",
+      "phone": "+1-555-2345-678",
+      "address": {
+        "street": "321 Maple St",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20001",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Kim",
+      "email": "daniel.kim@example.com",
+      "phone": "+1-555-6789-012",
+      "address": {
+        "street": "456 Pine St",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ava Garcia",
+      "email": "ava.garcia@example.com",
+      "phone": "+1-555-3456-789",
+      "address": {
+        "street": "789 Cedar St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85001",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ethan Rodriguez",
+      "email": "ethan.rodriguez@example.com",
+      "phone": "+1-555-9012-345",
+      "address": {
+        "street": "123 Oak St",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80202",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Isabella Hernandez",
+      "email": "isabella.hernandez@example.com",
+      "phone": "+1-555-4567-890",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97201",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "William Martinez",
+      "email": "william.martinez@example.com",
+      "phone": "+1-555-2345-678",
+      "address": {
+        "street": "789 Maple St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94101",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Sophia Lee",
+      "email": "sophia.lee@example.com",
+      "phone": "+1-555-6789-012",
+      "address": {
+        "street": "321 Cedar St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98101",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "James Clark",
+      "email": "james.clark@example.com",
+      "phone": "+1-555-3456-789",
+      "address": {
+        "street": "654 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60601",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mia Scott",
+      "email": "mia.scott@example.com",
+      "phone": "+1-555-9012-345",
+      "address": {
+        "street": "987 Maple St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Benjamin Perez",
+      "email": "benjamin.perez@example.com",
+      "phone": "+1-555-4567-890",
+      "address": {
+        "street": "456 Pine St",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02108",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Charlotte Wright",
+      "email": "charlotte.wright@example.com",
+      "phone": "+1-555-1234-567",
+      "address": {
+        "street": "789 Elm St",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77002",
+        "country": "USA"
+      },
+      "image_url": "https://fakeurl.com/images/user20.jpg"
+    }
+  ]
+}
